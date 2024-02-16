@@ -1,0 +1,53 @@
+# Project Information
+site_name: PagerDuty Postincident Reviews HOWIE
+site_description: A collection of information about the PagerDuty retrospectives process and industry best practices. This guide will teach you how to build a culture that encourages retrospectives, the most important components to include in your retros, and how to conduct effective retrospective meetings.
+site_author: PagerDuty, Inc.
+site_url: https://howie-guide.pagerduty.com/
+
+# Repository
+repo_url: https://github.com/pagerduty/postincident-howie-docs
+
+# Copyright
+copyright: 'Copyright &copy; PagerDuty, Inc.'
+
+# Theme
+theme:
+  name: pagerduty
+  title: 'Postincident HOWIE'
+
+# Contents
+nav:
+  - Home: 'index.md'
+  - Assign: 'assign.md'
+  - Identify: 'identify.md'
+  - Analyze: 'analyze.md'
+  - Interview: 'interview.md'
+  - Calibrate: 'calibrate.md'
+  - Meet: 'meet.md'
+  - Report: 'report.md'
+  - Distribute: 'distribute.md'
+  - Closing Thoughts: 'thoughts.md'
+  - Appendices: 'appendices.md'
+  - Authors & Acknowledgements: 'authack.md'
+
+# Analytics
+google_analytics: ['UA-8759953-1', 'auto']
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: '#'
+  - sane_lists:
+  - admonition:
+  - meta:
+  - pymdownx.details:
+  - pymdownx.extra:
+  - pymdownx.mark:
+  - pymdownx.tilde:
+  - pymdownx.highlight:
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+
+# Development URL, bind to local only.
+dev_addr: '127.0.0.1:8000'
+
