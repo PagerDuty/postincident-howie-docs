@@ -1,5 +1,3 @@
-![PagerDuty](/assets/images/headers/Retros-Title.png)
-
 ## Welcome to the Howie guide to post‑incident investigations!
 The guide you’re about to read will provide you with an explanation of how to get the most out of your incidents. This process has been developed by a number of leading experts in the field and shows the steps to conduct an in-depth investigation.
 
