@@ -1,14 +1,12 @@
-# PagerDuty Retrospectives Documentation
+# PagerDuty Postincident Reviews Documentation
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ef36fac9-07c7-4d30-8057-1057d97414e3/deploy-status)](https://app.netlify.com/sites/retrospectives-88cebb/deploys)
 
-This is a public version of the Retrospectives process used at PagerDuty.  Having retrospectives on a regular basis is one way for your team to learn what they’re doing right, where they can improve, how to avoid making the same mistakes again and again, and how to critically think about how they’re working together. This guide teaches you how to train facilitators, plan, and run retrospective meetings.
+This is an Open Source version of the Howie guide originally published by Jeli. Welcome to the PagerDuty family, Jeli!
 
-See the [about page](docs/about.md) for more information on what this documentation is and why it exists.
+You can view the documentation directly in this repository, or rendered as a website at https://howie-guide.pagerduty.com.
 
-You can view the documentation directly in this repository, or rendered as a website at https://retrospectives.pagerduty.com.
-
-[![PagerDuty Retrospectives](screenshot.png)](https://retrospectives.pagerduty.com)
+[![PagerDuty Postincident Howie](screenshot.png)](https://howie-guide.pagerduty.com)
 
 ## Development
 We use [MkDocs](http://www.mkdocs.org/) to create a static site from this repository.
@@ -51,7 +49,7 @@ Thank you for considering contributing! If you have any questions, just ask - or
 
 Here is our preferred process for submitting a pull request,
 
-1. Fork it ( https://github.com/PagerDuty/retrospectives-docs/fork )
+1. Fork it ( https://github.com/PagerDuty/postincident-howie-docs/fork )
 1. Create your feature branch (`git checkout -b my-new-feature`)
 1. Commit your changes (`git commit -am 'Add some feature'`)
 1. Push to the branch (`git push origin my-new-feature`)

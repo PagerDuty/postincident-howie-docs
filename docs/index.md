@@ -10,13 +10,14 @@ Recent events have shown how critical digital services are to individuals, organ
 
 As Nora Jones notes:
 
-> We’re at an age in software where learning from incidents is pivotal to our companies’ continued successes. There is a massive opportunity for Software Engineers to learn more about the applications of Resilience Engineering, Human Factors, and Systems Safety to their everyday work with the goal of learning how we can extract value and build expertise from incidents and surprises.**1**
+> We’re at an age in software where learning from incidents is pivotal to our companies’ continued successes. There is a massive opportunity for Software Engineers to learn more about the applications of Resilience Engineering, Human Factors, and Systems Safety to their everyday work with the goal of learning how we can extract value and build expertise from incidents and surprises.<sup>[1](https://www.jeli.io/howie/authors-acknowledgements)</sup>
 
-When we think about learning from our incidents, we often don’t have a good framework for what we can get out of this work. As noted cognitive psychologist and researcher Gary Klein explains in his book on human performance in everyday work conditions.**2**
+When we think about learning from our incidents, we often don’t have a good framework for what we can get out of this work. As noted cognitive psychologist and researcher Gary Klein explains in his book on human performance in everyday work conditions.<sup>[2](https://www.jeli.io/howie/authors-acknowledgements)</sup>
 
-**Insert image**
+!!! tip
+    Performance Improvement = Error Reduction + Insight Generation
 
-So far, the industry has over-indexed in the “error reduction” part of the equation by emphasizing incident metrics like mean time to respond and not much on generating insights. By investing in learning and in generating quality insights from each individual incident, you will be able to provide context around your incident metrics and show a more complete picture of performance improvements.**3**
+So far, the industry has over-indexed in the “error reduction” part of the equation by emphasizing incident metrics like mean time to respond and not much on generating insights. By investing in learning and in generating quality insights from each individual incident, you will be able to provide context around your incident metrics and show a more complete picture of performance improvements.<sup>[3](https://www.jeli.io/howie/authors-acknowledgements)</sup>
 
 This guide provides some concrete strategies to help you begin to develop skills in generating insights and to help your company in developing an incident analysis program. It will start by walking you through the stages of an investigation: how to assign and accept an investigation, identify your incident data for analysis, prepare for interviews, and write a calibration document. As you wrap up your investigation, you will also learn how to lead a learning review meeting, complete an incident report, and integrate any additional findings and action items before you finalize and distribute your learnings within your organization.
 
@@ -29,7 +30,7 @@ While the steps outlined here represent a well-rounded way to review an investig
 
 This means that an investigation process needs to be flexible and adaptable to the goals, interests and needs of the team or organization. We built Howie to be customizable for different sizes of organizations, skills of investigators, or levels of severity of incidents.
 
-**Insert Image**
+![Toolbox](assets/images/toolbox.png)
 
 In this way, an investigator should think about this process as a set of tools in a toolbox. As you progress as an investigator and your company progresses with its incident investigation program, we encourage you to seek more tools to add! This will help you increase the number of insights gained in your investigations.
 

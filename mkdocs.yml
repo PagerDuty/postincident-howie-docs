@@ -1,6 +1,6 @@
 # Project Information
-site_name: PagerDuty Postincident Reviews HOWIE
-site_description: A collection of information about the PagerDuty retrospectives process and industry best practices. This guide will teach you how to build a culture that encourages retrospectives, the most important components to include in your retros, and how to conduct effective retrospective meetings.
+site_name: PagerDuty Postincident Reviews Howie
+site_description: A guide to the postincident review process, outlining how to collect data, hold meetings, and publish learnings. Originally by the folks at Jeli.
 site_author: PagerDuty, Inc.
 site_url: https://howie-guide.pagerduty.com/
 
@@ -13,7 +13,7 @@ copyright: 'Copyright &copy; PagerDuty, Inc.'
 # Theme
 theme:
   name: pagerduty
-  title: 'Postincident HOWIE'
+  title: 'Postincident Howie'
 
 # Contents
 nav:
@@ -27,6 +27,7 @@ nav:
   - Report: 'report.md'
   - Distribute: 'distribute.md'
   - Closing Thoughts: 'thoughts.md'
+  - Continued Learning: 'continue.md'
   - Appendices: 'appendices.md'
   - Authors & Acknowledgements: 'authack.md'
 
@@ -51,3 +52,5 @@ markdown_extensions:
 # Development URL, bind to local only.
 dev_addr: '127.0.0.1:8000'
 
+extra_css:
+- authors.css
