@@ -1,6 +1,5 @@
 ## Authors
 
-
 | | | |
 | :------------: | :------------: | :------------: |
 | ![Dr. Laura Maguire](assets/images/DrLauraMaguire.jpeg){.circular_portrait} | ![Nora Jones](assets/images/NoraJones.jpeg){.circular_portrait} | ![Vanessa Huerta Granda](assets/images/VanessaHuertaGranda.jpeg){.circular_portrait} |
