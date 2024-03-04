@@ -1,4 +1,4 @@
-At Jeli we believe in the power of taking a proactive approach to incident analysis to help you truly understand how you got here.
+At PagerDuty we believe in the power of taking a proactive approach to incident analysis to help you truly understand how you got here.
 
 We believe that incident analysis can be your organization’s secret weapon that will allow you to gain value from your incidents. We understand that good incident analysis is an investment, so we hope that this guide will help you push toward that change.
 
