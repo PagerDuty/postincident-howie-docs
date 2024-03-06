@@ -1,6 +1,6 @@
 # Project Information
-site_name: PagerDuty Postincident Reviews Howie
-site_description: A guide to the postincident review process, outlining how to collect data, hold meetings, and publish learnings. Originally by the folks at Jeli.
+site_name: PagerDuty Post-Incident Reviews Howie
+site_description: A guide to the post-incident review process, outlining how to collect data, hold meetings, and publish learnings. Originally by the folks at Jeli.
 site_author: PagerDuty, Inc.
 site_url: https://howie-guide.pagerduty.com/
 
@@ -13,7 +13,7 @@ copyright: 'Copyright &copy; PagerDuty, Inc.'
 # Theme
 theme:
   name: pagerduty
-  title: 'Postincident Howie'
+  title: 'Post-Incident Howie'
 
 # Contents
 nav:

@@ -1,1 +1,9 @@
 .circular_portrait { position: relative; width: 150px; overflow: hidden; border-radius: 50%; } .circular_portrait img { width: 100%; height: auto; }
+
+.callout { 
+    color: #ffffff;  
+    margin: 1em 0em 0;
+    padding: 1.5em;
+    background: #06ac38;
+    border-radius: 5px;
+  } 

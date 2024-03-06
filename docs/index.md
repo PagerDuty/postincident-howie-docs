@@ -1,4 +1,7 @@
-## Welcome to the Howie guide to post‑incident investigations!
+<div class="callout">The Howie Guide to Post-Incident Investigations was originally published by Dr. Laura Maguire, Nora Jones, Vanessa Huerta Granda in collaboration with the Jeli team. PagerDuty acquired Jeli in 2023 and we're proud to rehome the Howie Guide as a part of the PagerDuty Ops Guide library.</div>
+
+## Welcome to the Howie Guide to post‑incident investigations!
+
 The guide you’re about to read will provide you with an explanation of how to get the most out of your incidents. This process has been developed by a number of leading experts in the field and shows the steps to conduct an in-depth investigation.
 
 We affectionately call this process the “how we got here process” (or “Howie process” for short), and it is applicable to companies of different sizes and stages of maturity with investigation programs.
