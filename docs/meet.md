@@ -56,7 +56,7 @@ We’ll walk you through the process step by step, starting with the introductio
 ### Intro and opening remarks
 You’ll want to set expectations. If you’re recording the meeting, make that clear and explain why. As part of those expectations, you’ll want to explain the ground rules. Here are some we recommend, feel free to take or leave them as you see fit. We’ve included our recommendation as a script for you in order to make it easy; this way, if you need a reminder or are unsure, you can start by reading the following out loud:
 
-“The meeting is intended to be blame-aware; we recognize that everyone works with constraints and sometimes those don’t appear until after an incident, we acknowledge our tendency to blame and name names and move past it in order to be productive.<sup>[10](https://howie-guide.pagerduty.com/authack/#references)</sup> We will avoid counterfactuals<sup>[11](https://howie-guide.pagerduty.com/authack/#references)</sup> and remain respectful of each other’s knowledge and experience.
+“The meeting is intended to be blame-aware; we recognize that everyone works with constraints and sometimes those don’t appear until after an incident, we acknowledge our tendency to blame and name names and move past it in order to be productive.<sup>[10](https://howie-guide.pagerduty.com/authack/)</sup> We will avoid counterfactuals<sup>[11](https://howie-guide.pagerduty.com/authack/)</sup> and remain respectful of each other’s knowledge and experience.
 
 The objective remains how to constructively help us get better at working together to solve the often-challenging problems we face.
 
