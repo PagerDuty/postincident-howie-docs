@@ -5,7 +5,7 @@ So far you have consolidated the existing data from tools used in everyday softw
 
 Interviewing the participants involved can help elicit more details about what was confusing and why, the event, the response efforts, and surface important knowledge about the system (which includes the technical architecture but also teams, company culture, and communication patterns). Talking to different people involved one-on-one will expose the differences between what they believe happened and why. Often these deltas are used to run the most productive incident review.
 
-This section is built on methods from critical incident technique<sup>[8](https://howie-guide.pagerduty.com/authack/)</sup> and critical decision method<sup>[9](https://howie-guide.pagerduty.com/authack/)</sup> for investigating incidents. It covers deciding who to interview, conducting the interviews, and working with the data collected after the interview.
+This section is built on methods from critical incident technique<sup>[8](https://howie-guide.pagerduty.com/authack/#references)</sup> and critical decision method<sup>[9](https://howie-guide.pagerduty.com/authack/#references)</sup> for investigating incidents. It covers deciding who to interview, conducting the interviews, and working with the data collected after the interview.
 
 ## Deciding who to interview
 We are rarely given unlimited time to conduct an investigation, as many organizations seek to complete their investigations within a given time window or require the findings from the investigation to inform immediate work. Therefore, you’ll need to decide how to use your time to provide the optimal insights for your investigation.

@@ -42,4 +42,4 @@ Finally, we appreciate the support of all those who worked on this guide for rev
 1. Robert R. Hoffman, Beth Crandall, and Nigel Shadbolt, “Use of the Critical Decision Method to Elicit Expert Knowledge: A Case Study in the Methodology of Cognitive Task Analysis,” Human Factors 40, no. 2 (June 1, 1998): 254–276, [https://journals.sagepub.com/doi/10.1518/001872098779480442](https://journals.sagepub.com/doi/10.1518/001872098779480442).
 1. J. Paul Reed, “‘Blameless’ Postmortems Don’t Work. Be Blame-Aware but Don’t go Negative,” TechBeacon, July 29, 2021, [https://techbeacon.com/app-dev-testing/blameless-postmortems-dont-work-heres-what-does](https://techbeacon.com/app-dev-testing/blameless-postmortems-dont-work-heres-what-does).
 1. Sidney Dekker, The Field Guide to Understanding ‘Human Error’. (Boca Raton: CRC Press, 2014).
-Diane Vaughan, The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA (Chicago: The University of Chicago Press, 2016).
+1. Diane Vaughan, The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA (Chicago: The University of Chicago Press, 2016).

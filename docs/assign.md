@@ -16,7 +16,7 @@ First, assign an investigator who will own the responsibility for the investigat
 | Be able to dedicate time and attention to driving the investigation through to completion | |
 
 ## Why these things?
-Someone with a foundational level of knowledge will be able to understand the technical issues involved. That person also being trained in investigation techniques, including knowledge elicitation<sup>[5](https://howie-guide.pagerduty.com/authack/)</sup> allows them to better surface information and ask better questions. Without someone who is committed to helping people feel safe, it will be difficult to get their perspective.
+Someone with a foundational level of knowledge will be able to understand the technical issues involved. That person also being trained in investigation techniques, including knowledge elicitation<sup>[5](https://howie-guide.pagerduty.com/authack/#references)</sup> allows them to better surface information and ask better questions. Without someone who is committed to helping people feel safe, it will be difficult to get their perspective.
 
 It’s not recommended that someone who was directly involved in the incident investigate it because that can unintentionally bias them. Being directly involved can also prevent an investigator from being seen as a neutral third party. Similarly, the facilitator shouldn’t be someone with authority over the interviewees in order to not create a fear of reprimand, concerns about looking unsure in front of management, or doubts around admitting to doing “the wrong thing,” all of which can limit the learning that takes place.
 
