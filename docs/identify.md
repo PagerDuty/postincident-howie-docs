@@ -5,3 +5,6 @@ The first step is to collect incident data. Think of what data sources will give
 
 It’s common for incident data to be spread across multiple communication chat channels. Take a look at the main incident channel and keep track of key players and their roles. Scan any potentially relevant channels (shared user or on-call channels, general company channels, or specific component channels) to see if the incident is mentioned or search using keywords/ticket numbers. If you find something, make a note of the channel, and capture relevant messages.
 
+???+ pdonpd "How PagerDuty Does It"
+    Check out how PagerDuty Engineering [automatically pulls data into Post-Incident Reviews to learn from Major Incidents](https://www.pagerduty.com/ops-guides/using-pd/jeli-analysis-engineering-team/)
+

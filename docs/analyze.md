@@ -15,6 +15,10 @@ As you prepare for conducting the initial analysis, the first step is to get you
 
 Let’s look at each of these steps in more detail.
 
+???+ pdonpd "PD on PD"
+    Categorizing incidents starts before the Post-Incident Review. Incident Workflows, Incident Types, and Custom Fields help keep data aligned and focused and aids in later analysis. [Here's how we do it](https://www.pagerduty.com/ops-guides/using-pd/integrations-team/).
+
+
 ## Tagging
 A useful way to orient yourself to the event is to read over the data you’ve collected. This helps orient you to the event itself and helps you begin to make sense of different parts of the incident. For example, how did the event get detected? Who was brought in to help? How did they react to what was going on? Most investigators will immediately begin looking for information to assess the nature and severity of the incident and any key moments in time to help develop a timeline.
 
