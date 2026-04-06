@@ -1,9 +1,6 @@
 ## Continued Learning
 Developing skills as an investigator and analyst is an ongoing process. Below are some resources to help you level-up your game.
 
-[www.learningfromincidents.io](http://www.learningfromincidents.io/)  
-A software engineering community based on resilience engineering, incident analysis and sharing of experiences. sharing of experiences. The blog posts are updated regularly.
-
 [Etsy’s Debriefing Facilitation Guide](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf)  
 A comprehensive guide for facilitators developed by John Allspaw.
 
