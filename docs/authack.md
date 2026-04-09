@@ -31,9 +31,9 @@ Finally, we appreciate the support of all those who worked on this guide for rev
 - Chad Todd
 
 ## References
-1. Nora Jones, “Introduction,” Learning from Incidents (blog), November 25, 2019, [https://www.learningfromincidents.io/posts/learning-from-incidents-in-software](https://www.learningfromincidents.io/posts/learning-from-incidents-in-software).
+1. Nora Jones, “Introduction,” Learning from Incidents (blog), November 25, 2019, https://www.learningfromincidents.io/posts/learning-from-incidents-in-software (retired). Similar content [https://www.pagerduty.com/blog/incident-management-response/learning-from-major-incidents-the-opportunities-were-missing/](https://www.pagerduty.com/blog/incident-management-response/learning-from-major-incidents-the-opportunities-were-missing/).
 1. Gary Klein, Seeing What Others Don’t: The Remarkable Ways We Gain Insights (New York: Public Affairs, 2015).
-1. Vanessa Huerta Granda, “Making Sense out of Incident Metrics,” Learning from Incidents (blog), May 28, 2021, [https://www.learningfromincidents.io/posts/looking-beyond-the-metrics](https://www.learningfromincidents.io/posts/looking-beyond-the-metrics)
+1. Vanessa Huerta Granda, “Making Sense out of Incident Metrics,” Learning from Incidents (blog), May 28, 2021, https://www.learningfromincidents.io/posts/looking-beyond-the-metrics (retired) partially summarized [here](https://www.thevoid.community/blog?recordId=rec64p02RXaptKxs7).
 1. DD Woods, “Report from the SNAFUcatchers Workshop on Coping with Complexity.” Snafu Catchers (Columbus: The Ohio State University, 2017), [https://snafucatchers.github.io/](https://snafucatchers.github.io/).
 1. Nancy Cooke, “Knowledge Elicitation,” (New Mexico State University).
 1. Sidney Dekker, The Field Guide to Understanding “Human Error” (Farnham: Ashgate Publishing, 2016).
