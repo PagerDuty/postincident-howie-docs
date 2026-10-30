@@ -1,11 +1,110 @@
+
+# netlify.toml — howie-guide.pagerduty.com
+# This site now only redirects to docs.pagerduty.com/ops-guides/howie-guide.
+
+# ---------------------------------------------------------------------------
+# Headers
+# ---------------------------------------------------------------------------
+# These are attached to the 301 responses too. Referrer-Policy matters here:
+# a redirect response's Referrer-Policy is applied to the follow-up request,
+# so "same-origin" would strip the referrer when the browser goes on to
+# docs.pagerduty.com (cross-origin), and docs analytics would lose the
+# original traffic source (Google, blogs, Slack, etc.).
 [[headers]]
   for = "/*"
   [headers.values]
-    Strict-Transport-Security = "max-age=31536000 ; includeSubDomains"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "same-origin"
-    Feature-Policy = "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
-    Content-Security-Policy-Report-Only = "default-src 'none'; script-src 'self' ssl.google-analytics.com www.google-analytics.com 'sha256-AzwHtScSzFOoXIoLRz4+vK2rDADGdNC3AXQG5FjKK68=' 'sha256-8IZh+gkrYCTCvcu/zawPN9Vj4RLghgOT4F5rTZXvdkQ='; object-src 'self'; style-src 'self'; img-src 'self' data: ssl.google-analytics.com www.google-analytics.com; media-src 'none'; frame-src www.youtube.com www.youtube-nocookie.com; font-src 'self'; connect-src 'self' ssl.google-analytics.com www.google-analytics.com; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
+    Referrer-Policy = "strict-origin-when-cross-origin"
 
+# ---------------------------------------------------------------------------
+# Redirects — first match wins. Keep the catch-all LAST.
+# force = true is required because the old MkDocs build output (if still
+# deployed) would otherwise shadow these rules.
+# ---------------------------------------------------------------------------
+[[redirects]]
+  from = "/"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/assign/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/assign"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/identify/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/identify"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/analyze/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/analyze"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/interview/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/interview"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/calibrate/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/calibrate"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/meet/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/meet"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/report/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/report"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/distribute/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/distribute"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/thoughts/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/closing-thoughts"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/continue/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/continued-learning"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/appendices/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/appendices"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/authack/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide/authors"
+  status = 301
+  force = true
+
+# Catch-all: assets, sitemap.xml, search index, unknown/mistyped URLs
+
+[[redirects]]
+  from = "/*"
+  to = "https://docs.pagerduty.com/ops-guides/howie-guide"
+  status = 301
+  force = true
